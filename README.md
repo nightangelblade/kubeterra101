@@ -9,7 +9,8 @@ Prerequisites:
 - Minikube - https://kubernetes.io/docs/tutorials/hello-minikube/
 - Terraform - https://www.terraform.io/
 
-Commands:
+Commands
+
 From directory with Dockerfile:
 ```
 docker build -t k8s-fast-api .
